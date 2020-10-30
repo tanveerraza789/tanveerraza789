@@ -39,4 +39,6 @@ I love programming and Linux.
  
 ---
 
+[![Tanveer Raza's github stats](https://github-readme-stats.vercel.app/api?username=tanveerraza789)](https://google.com)
+
 ``` sudo pacman -Syu ``` to update!
