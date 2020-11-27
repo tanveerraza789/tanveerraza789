@@ -46,7 +46,7 @@ I love programming and Linux. 🤖
 ---
 
 ## Social Media links
-💬 Ask me about anything, I'll be happy to help!
+💬 Ask me about anything, I'll be happy to help! <br>
 💬 My inbox is always open, Contact me
 - <p align="left"><img src="https://img.shields.io/badge/Gmail-tanveerraza789%40gmail.com-bringhtgreen?style=flat&logo=gmail"></p>
 - <p align="left"><img src="https://img.shields.io/badge/Telegram-atamakahere-brightgreen?style=flat&logo=telegram"></p>
