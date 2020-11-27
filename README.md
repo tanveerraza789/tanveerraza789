@@ -4,9 +4,9 @@
 </p> 
  
 
-Hello there, I am a student pursuing **B. tech** from India. 👨‍💻 <br>
-I love programming and Linux. 🤖 <br>
-19 year old Enthusiastic learner! 💻 <br>
+Hello there, I am a student pursuing **B. tech** from India. 👨‍💻 
+I love programming and Linux. 🤖 
+19 year old Enthusiastic learner! 💻
 
 ---
 
@@ -16,12 +16,12 @@ I love programming and Linux. 🤖 <br>
 
 ## Languages I know
  <p align="left"> 
- <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" >
- <img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" >
- <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen" >
- <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen" >
- <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen" >
- <img src="https://img.shields.io/badge/HTML/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen" >
+ <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen?style=flat&logo=c" >
+ <img src="https://img.shields.io/badge/C++-%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen?style=flat&logo=c++" >
+ <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen?style=flat&logo=java" >
+ <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen?style=flat&logo=python" >
+ <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen?style=flat&logo=javascript" >
+ <img src="https://img.shields.io/badge/HTML/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen?style=flat&logo=html5" >
  </p>
 
 ---
@@ -47,11 +47,10 @@ I love programming and Linux. 🤖 <br>
 ---
 
 ## Social Media links
-💬 Ask me about anything, I'll be happy to help! <br>
-💬 My inbox is always open, Contact me 
-
- - <p align="left"><img src="https://img.shields.io/badge/Gmail-tanveerraza789%40gmail.com-orange?style=flat&logo=gmail"></p>
- - <p align="left"><img src="https://img.shields.io/badge/Telegram-atamakahere-orange?style=flat&logo=telegram"></p>
+💬 Ask me about anything, I'll be happy to help!
+💬 My inbox is always open, Contact me
+- <p align="left"><img src="https://img.shields.io/badge/Gmail-tanveerraza789%40gmail.com-bringhtgreen?style=flat&logo=gmail"></p>
+- <p align="left"><img src="https://img.shields.io/badge/Telegram-atamakahere-brightgreen?style=flat&logo=telegram"></p>
  
 ---
 ## Recent activities
@@ -62,3 +61,4 @@ I love programming and Linux. 🤖 <br>
 
 
 ``` sudo pacman -Syu ``` to update!
+
