@@ -4,9 +4,9 @@
 </p> 
  
 
-Hello there, I am a student pursuing **B. tech** from India. 👨‍💻 
-I love programming and Linux. 🤖 
-19 year old Enthusiastic learner! 💻
+Hello there, I am a student pursuing **B. tech** from India. 👨‍💻  <br>
+I love programming and Linux. 🤖 <br>
+19 year old Enthusiastic learner! 💻 <br>
 
 ---
 
