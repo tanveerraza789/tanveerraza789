@@ -47,7 +47,7 @@ I love programming and Linux. 🤖 <br>
 ---
 
 ## Social Media links
-💬 Ask me about anything, I'll be happy to help!
+💬 Ask me about anything, I'll be happy to help! <br>
 💬 My inbox is always open, Contact me
  - [LinkedIn](https://www.linkedin.com/in/tanveer-r-542145108/)
  - [Mail](mailto:tanveerraza789@gmail.com) 
