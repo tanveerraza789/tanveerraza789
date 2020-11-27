@@ -16,8 +16,7 @@ I love programming and Linux. 🤖
 
 ## Languages I know
  <p align="left"> 
- <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen?style=flat&logo=c" >
- <img src="https://img.shields.io/badge/C++-%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen?style=flat&logo=c++" >
+ <img src="https://img.shields.io/badge/++-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen?style=flat&logo=c" >
  <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-brightgreen?style=flat&logo=java" >
  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen?style=flat&logo=python" >
  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen?style=flat&logo=javascript" >
