@@ -48,11 +48,10 @@ I love programming and Linux. 🤖 <br>
 
 ## Social Media links
 💬 Ask me about anything, I'll be happy to help! <br>
-💬 My inbox is always open, Contact me
- - [LinkedIn](https://www.linkedin.com/in/tanveer-r-542145108/)
- - [Mail](mailto:tanveerraza789@gmail.com) 
- - [Reddit](https://www.reddit.com/user/atamakahere)
- - [Telegram](http://t.me/atamakahere)
+💬 My inbox is always open, Contact me 
+
+ - <p align="left"><img src="https://img.shields.io/badge/Gmail-tanveerraza789%40gmail.com-orange?style=flat&logo=gmail"></p>
+ - <p align="left"><img src="https://img.shields.io/badge/Telegram-atamakahere-orange?style=flat&logo=telegram"></p>
  
 ---
 ## Recent activities
