@@ -35,9 +35,9 @@ Enthusiastic learner! 💻 <br>
 4. <img src="https://simpleicons.org/icons/vim.svg" alt="Vim" width="20"> [Vim](https://vim.org)
 5. <img src="https://simpleicons.org/icons/gnubash.svg" alt="Terminal" width="20"> [Bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 6. <img src="https://simpleicons.org/icons/intellijidea.svg" alt="IDEA" width="20"> [Intellij IDEA](https://www.jetbrains.com/idea/) and <img src="https://simpleicons.org/icons/pycharm.svg" alt="IDEA" width="20"> [PyCharm](https://www.jetbrains.com/idea/)
-7. <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="20"> [Telegram (Bots and group management)](telegram.org)
+7. <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="20"> [Telegram (Bots and group management)](https://telegram.org)
 8. <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="20"> [Discord (Bots and server management)](https://discord.com/)
-9. <img src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="20"> [Major Linux Distros](distrowatch.com)
+9. <img src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="20"> [Major Linux Distros](https://distrowatch.com/)
 10. and much more.
 ## Here are some of my projects and contribution
 
