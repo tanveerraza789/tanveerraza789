@@ -44,7 +44,7 @@ Enthusiastic learner! 💻 <br>
  - [FilterWebPage](https://tanveerraza789.github.io/FilterWebPage/)
  - [BaseConverter](https://github.com/tanveerraza789/BaseConverter)
  - [BrianFuckWriter](https://github.com/tanveerraza789/BrainFuckWriter)
- - [uGRUB](https://github.com/tanveerraza789/uGRUB)
+ - [PrimeDigitDistribution](https://github.com/tanveerraza789/PrimeUnitDistribution)
  - Work in progress! Wait for more.
 ---
 
