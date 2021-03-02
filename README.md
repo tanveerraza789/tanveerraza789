@@ -52,7 +52,7 @@ Enthusiastic learner! 💻 <br>
 💬 Ask me about anything, I'll be happy to help! <br>
 💬 My inbox is always open, Contact me
 - <p align="left"> <a href="mailto:tanveerraza789.com"> <img src="https://img.shields.io/badge/Gmail-tanveerraza789%40gmail.com-bringhtgreen?style=flat&logo=gmail"></a></p>
-- <p align="left"> <a href="https://t.me/tanveerraza789"> <img src="https://img.shields.io/badge/Telegram-atamakahere-brightgreen?style=flat&logo=telegram"></a></p>
+- <p align="left"> <a href="https://t.me/tanveerraza789"> <img src="https://img.shields.io/badge/Telegram-tanveerraza789-brightgreen?style=flat&logo=telegram"></a></p>
  
 ---
 ## Recent activities
